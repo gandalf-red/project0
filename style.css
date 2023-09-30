@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(file:///C:/Users/gandalf/Downloads/class5/MaterialeEsercizioLim/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+}   
+.box{
+    width: 1200px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 25px;
+    padding: 110px;
+    
+}
+.logo{
+    width: 250px;
+    margin-left: 35%;
+    
+}
+.logo-text{
+    color: #00dc01;
+    font-size: 30px;
+    margin-left: 27%;
+}
+
+.menu{
+    background-color: #00dc01;
+    border: 10px solid #00dc01;
+    padding-left: 33%;
+}
+.scooter{
+    color: white;
+    font-size: 15px;
+}
+.user{
+    display: inline-block;
+}
+.battery{
+    border: 15px solid;
+    border-radius: 7px;
+}
+#carica1 {
+    width: 33%;
+    color: orange;
+}
+#carica2 {
+    width: 73%;
+    color: green;
+}
+#carica3 {
+    width: 13%;
+    color: crimson;
+}
